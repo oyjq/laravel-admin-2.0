@@ -1,14 +1,13 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "jq2025/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "table", "form"],
-    "homepage": "https://github.com/z-song/laravel-admin",
+    "homepage": "https://github.com/oyjq/laravel-admin-2.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "zsong",
-            "email": "zosong@126.com"
+            "name": "jq2025"
         }
     ],
     "require": {
@@ -18,10 +17,7 @@
         "doctrine/dbal": "2.*"
     },
     "require-dev": {
-        "laravel/laravel": ">=5.5",
-        "fzaninotto/faker": "~1.4",
-        "intervention/image": "~2.3",
-        "laravel/browser-kit-testing": "^6.0"
+        "laravel/laravel": ">=5.5"
     },
     "autoload": {
         "psr-4": {
